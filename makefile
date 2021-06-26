@@ -6,3 +6,6 @@ build:
 
 clean:
 	rm -rf bin
+
+run:
+	./bin/backend
