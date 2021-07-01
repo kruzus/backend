@@ -7,8 +7,6 @@ This is a simple REST API for our front end.
 
 # make file commands
 
-
-
 **dev**: quickly run
 
 **build**: build the project
