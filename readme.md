@@ -9,10 +9,12 @@ This is a simple REST API for our front end.
 
 
 
-**dev**: go run src/server.go 
+**dev**: quickly run
 
-**build**: go build -o bin/backend src/server.go 
+**build**: build the project
 
-**clean**: rm -rf bin
+**clean**: clean the bin
 
-**run**: ./bin/backend
+**run**: run it
+
+@TODO: add tests!!!

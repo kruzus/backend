@@ -1,8 +1,8 @@
 dev:
-	go run src/server.go
+	go run main.go
 
 build:
-	go build -o bin/backend src/server.go 
+	go build -o bin/backend main.go
 
 clean:
 	rm -rf bin
